@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ayusharun4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eTmzd9P9t6Z2pldBPFjUGhvj85RJj09Y/view](https://drive.google.com/file/d/1eTmzd9P9t6Z2pldBPFjUGhvj85RJj09Y/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eTmzd9P9t6Z2pldBPFjUGhvj85RJj09Y/view](https://drive.google.com/file/d/1wYRHAmLmIAjntLM14tiQoXslIP6mH7xN/view?usp=sharing)
 
 - ⚡ Fun fact **live at localhost:3000**
 
