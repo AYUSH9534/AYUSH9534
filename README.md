@@ -7,7 +7,7 @@
 
 - 💫 About Me:<br><br> **👋 Hello, I'm Ayush, a passionate MERN Stack Enthusiast on a mission to create impactful and scalable web solutions. With a deep-rooted love for both frontend and backend development, I find joy in turning ideas into dynamic, user-friendly applications.<br><br> 🚀 In my coding endeavors, I consider application performance a top priority. Through rigorous DSA problem-solving, I ensure that the solutions I implement are not only functional but optimized for speed, scalability, and resource efficiency.<br><br>🛠️ Tech Arsenal: 💻 On the Front-end, I am Proficient in crafting sleek and responsive user interfaces using React.js, ensuring a seamless and engaging user experience.<br><br> 🌐 Whether it's Back-end development, I am passionate about delivering high-quality software solutions specializing in Node.js and Express.js to build robust and efficient server-side applications. Let's build something amazing together! 🤝🏻**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-7tcutteuq-ayushs-projects-868bb73a.vercel.app/](https://react-portfolio-7tcutteuq-ayushs-projects-868bb73a.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ayusharun.vercel.app/](https://ayusharun.vercel.app/)
 
 - 📫 How to reach me **ayusharun4@gmail.com**
 
